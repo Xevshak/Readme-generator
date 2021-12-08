@@ -1,0 +1,20 @@
+{
+  "name": "Readme-generator",
+  "version": "1.0.0",
+  "description": "generates REadMes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xevshak/Readme-generator"
+  },
+  "author": "Keshav Krishnan",
+  "license": "MIT",
+  },
+  "homepage": "https://github.com/Xevshak/Readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
